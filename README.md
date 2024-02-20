@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhirajKulkarni
-- 👀 I’m interested in ...Data Science And Machine Learning
+- 👀 I’m interested in ..Design Verification,Digital VLSI design with FPGA/ASIC development and also in Embedded Systems.
 - 🌱 I’m currently learning ...Bachelors in Electronics and Computer Science
 - 💞️ I’m looking to collaborate on ...
 
